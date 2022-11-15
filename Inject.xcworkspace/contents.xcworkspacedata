@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/miguelalcantara/Documents/Personal/Code/Inject/test/InjectSwiftUI.xcodeproj">
+      location = "group:InjectUIKit/InjectUIKit.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/miguelalcantara/Documents/Personal/Code/Inject/TestInjectFramework/InjectUIKit.xcodeproj">
+      location = "group:InjectSwiftUI/InjectSwiftUI.xcodeproj">
    </FileRef>
 </Workspace>
